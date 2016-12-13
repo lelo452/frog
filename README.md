@@ -11,4 +11,5 @@ Users move the hero character by using the main up/right/left/down arrow keys on
 
 ## Installation
 To run the application:
+
 1. Open the directory frog and open the file index.html in the browser.
